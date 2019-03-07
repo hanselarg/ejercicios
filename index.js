@@ -25,6 +25,8 @@ function suma(a,b){
     return a + b;
 }
 
+alert("version nueva");
+
 /* $(document).ready(function(){
 
     $.ajax({
