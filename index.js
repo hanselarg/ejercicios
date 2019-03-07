@@ -25,6 +25,8 @@ function suma(a,b){
     return a + b;
 }
 
+console.log("esto es un cambio");
+
 /* $(document).ready(function(){
 
     $.ajax({
